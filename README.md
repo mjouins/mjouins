@@ -41,8 +41,6 @@
   <a href="https://sass-lang.com/"><img alt="Sass" src="badges/svgs/Sass-badge.svg"/></a>
 </p>
 
-<br>
-
 <h2 align="left">🧩Frameworks </h2>
 <p align="left">
   <a href="https://djangoproject.com/"><img alt="Django" src="badges/svgs/Django-badge.svg"/></a>
@@ -51,8 +49,6 @@
   <a href="http://tinyurl.com/mrwbrytk"><img alt="ESP-IDF" src="badges/svgs/Espidf-badge.svg"/></a>
   <a href="https://freertos.org/"><img alt="FreeRTOS" src="badges/svgs/Freertos-badge.svg"/></a>
 </p>
-
-<br>
 
 <h2 align="left">🔧Tools </h2>
 <p align="left">
@@ -69,7 +65,6 @@
   <a href="https://www.autodesk.com/products/fusion-360/"> <img alt="Fusion360"  src="badges/svgs/Fusion360-badge.svg" /></a>
 </p>
 
-<br>
 
 <h2 align="left">♾️DevOps </h2>
 <p align="left">
@@ -81,7 +76,6 @@
   
 </p>
 
-<br>
 
 <h2 align="left">⚙️OS </h2>
 <p align="left">
