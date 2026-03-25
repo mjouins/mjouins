@@ -1,6 +1,6 @@
 <img src="icons/banner.webp" width="100%" alt="Project banner"/>
 
-<h1 align="center">Hi there, I'm CreepyMemes 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://github.com/CreepyMemes"><img src="https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes" alt="Visitors"></a>
