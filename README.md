@@ -89,8 +89,8 @@
 <h3 align="center"> 📊Statistics</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyMemes&layout=compact&theme=dark" alt=CreepyMemes /> &nbsp;
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=CreepyMemes&show_icons=true&locale=en&theme=dark" alt="CreepyMemes" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjouins&layout=compact&theme=dark" alt=CreepyMemes /> &nbsp;
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mjouins&show_icons=true&locale=en&theme=dark" alt="CreepyMemes" />
 <br><br>
-<img align="center" width="774em" src="https://github-readme-stats.vercel.app/api/wakatime?username=CreepyMemes&theme=dark&langs_count=14&layout=compact&hide=other,xml,text"/>
+<img align="center" width="774em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjouins&theme=dark&langs_count=14&layout=compact&hide=other,xml,text"/>
 </div>
