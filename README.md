@@ -3,16 +3,16 @@
 <h1 align="center">Hi there, this is mjouins👋</h1>
 
 <p align="center">
-  <a href="https://github.com/CreepyMemes"><img src="https://visitor-badge.laobi.icu/badge?page_id=CreepyMemes.CreepyMemes" alt="Visitors"></a>
+  <a href="https://github.com/mjouins"><img src="https://visitor-badge.laobi.icu/badge?page_id=mjouins.mjouins" alt="Visitors"></a>
   <a href="https://wakatime.com/@eea42aeb-acf7-497e-a0b3-cb8653023c84"><img src="https://wakatime.com/badge/user/eea42aeb-acf7-497e-a0b3-cb8653023c84.svg" alt="Time coded history" /></a>
-  <a href="https://github.com/CreepyMemes"><img src="https://img.shields.io/github/followers/CreepyMemes.svg?style=social&label=Follow" alt="GitHub Followers"/></a>
+  <a href="https://github.com/mjouins"><img src="https://img.shields.io/github/followers/mjouins.svg?style=social&label=Follow" alt="GitHub Followers"/></a>
 </p>
 
 <h3 align="center">I'm studying Software and Automation Engineering and working on a robotics project in my spare time, which you can see in the banner above.</h3>
 
 <h2 align="left">🌟Interests:</h2>
 
-<img align="right" alt="Coding GIF" width="250" src="https://github.com/CreepyMemes/CreepyMEmes/blob/main/icons/computer.gif?raw=true"/>
+<img align="right" alt="Coding GIF" width="250" src="https://github.com/mjouins/mjouins/blob/main/icons/computer.gif?raw=true"/>
 
 - 🖥️ Fullstack Web Dev
 - 🔒 Cybersecurity & CTF
